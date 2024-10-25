@@ -1,0 +1,12 @@
+{
+"config": {
+"name": "tim",
+"version": "0.1",
+"max_responses": 5
+},
+"files": [
+"document1.txt",
+"document2.txt",
+"document3.txt"
+]
+}

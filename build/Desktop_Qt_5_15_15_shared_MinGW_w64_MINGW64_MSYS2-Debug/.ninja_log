@@ -1,0 +1,9 @@
+# ninja log v6
+2	472	7504247033639635	yyy_autogen/timestamp	d62742b563f1c919
+2	472	7504247033639635	yyy_autogen/mocs_compilation.cpp	d62742b563f1c919
+2	472	7504247033639635	D:/yyy/build/Desktop_Qt_5_15_15_shared_MinGW_w64_MINGW64_MSYS2-Debug/yyy_autogen/timestamp	d62742b563f1c919
+2	472	7504247033639635	D:/yyy/build/Desktop_Qt_5_15_15_shared_MinGW_w64_MINGW64_MSYS2-Debug/yyy_autogen/mocs_compilation.cpp	d62742b563f1c919
+473	1549	7504247033999628	CMakeFiles/yyy.dir/yyy_autogen/mocs_compilation.cpp.obj	59d0a5a104ff995c
+492	1550	7504247034179626	CMakeFiles/yyy.dir/mainwindow.cpp.obj	39711488a24d2b30
+486	1578	7504247034129630	CMakeFiles/yyy.dir/main.cpp.obj	6470371f4f444446
+500	1621	7504247034269627	CMakeFiles/yyy.dir/searchengine.cpp.obj	66855ab2ec036795
